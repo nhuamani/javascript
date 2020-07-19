@@ -20,8 +20,8 @@ Otras Guías de Estilos
 
 ## Get Started
 
-    - Tener un navegador web
-    - Un editor de código
+-   Tener un navegador web
+-   Un editor de código
 
 ## Hello World
 
