@@ -13,23 +13,21 @@ Otras Guías de Estilos
 ## Table of Contents
 
 1. [Get Started](#get-started)
-
-    - Tener un navegador web
-    - Un editor de código
-
 2. [Hello World!](#hello-world)
-
-```javascript
-console.log("Hello world!");
-```
-
 3. [Source](#source)
 
 ---
 
 ## Get Started
 
+    - Tener un navegador web
+    - Un editor de código
+
 ## Hello World
+
+```javascript
+console.log("Hello world!");
+```
 
 **[⬆ back to top](#table-of-contents)**
 
